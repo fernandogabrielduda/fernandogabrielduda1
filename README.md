@@ -1,6 +1,8 @@
 # Me conheça :
  
- Oi, suo o usuario **fernandogabrielduda**
+ Oi, sou o usuario **fernandogabrielduda**
+ 
+ :brazil:
 
 *Quero aprender* .
 
